@@ -1,2 +1,2 @@
-# fid
-First repo 2024
+# Repo for DIG2500 Fundamentals of Interactive Design
+First Repo yaaayyy
