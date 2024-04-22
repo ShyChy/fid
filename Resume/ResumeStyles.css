@@ -1,0 +1,71 @@
+header {
+    background: rgb(255, 246, 235);
+    border: orangered .3em solid;
+    border-radius: 50px;
+  margin-top: 0;
+text-align: center;
+}
+
+body {
+        background-color: wheat;
+        margin: 0 10%;
+        font-family: "Abel", sans-serif;
+        font-size: 1.3em;
+        font-weight: bold;
+        
+    }
+h1 {
+        color: orangered;
+        text-align: center;
+        text-transform: uppercase;
+        font-weight: bold;
+        font-family: "Abel", sans-serif;
+        letter-spacing: .1em;
+        margin-top: 30px;
+        text-shadow: .07em .07em silver;
+        
+    }
+h2 {
+        color: orangered;
+        font-size: 1.5em;
+        text-align: center;
+        letter-spacing: .1em;
+        font-family: "Abel", sans-serif;
+        font-weight: bolder;
+        text-shadow: .07em .07em silver;
+    }
+h3 {
+        color: orangered;
+        font-family: "Abel", sans-serif;
+        font-weight: bolder;
+        letter-spacing: .07em;
+        text-shadow: .07em .07em silver;
+    }
+
+
+ul {
+    background:  rgb(255, 246, 235);
+    padding-left: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    width: 430px;
+    border: orangered .3em solid;
+    border-radius: 50px;
+    letter-spacing: .05em;
+}
+
+blockquote {
+    text-align: center;
+    color: teal;
+    font-style: italic;
+    
+}
+
+a { text-decoration: none; }
+
+a:hover { opacity: 50%; }
+
+a:active { opacity: 80%; }
+
+
+
