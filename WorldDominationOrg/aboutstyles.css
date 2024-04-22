@@ -1,0 +1,52 @@
+header {
+    text-align: center;
+    margin-top: 0;
+}
+nav {
+    background: grey;
+    border: white .3em solid;
+    border-radius: 50px;
+}
+h1 {
+    color:white;
+    text-align: center;
+    text-transform: uppercase;
+    font-family: "Amatic", sans-serif;
+}
+
+h2 {
+    color:white;
+    font-family: "Amatic", sans-serif;
+}
+
+h3 {
+    color: white;
+    font-family: "Amatic", sans-serif;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+    font-family: "Amatic", sans-serif;
+}
+body {background-color: black;
+}
+
+blockquote {
+    color:white;
+    font-family: "Amatic", sans-serif;
+	letter-spacing: .07em;
+}
+p {
+    color:white;
+    font-family: "Amatic", sans-serif;
+}
+
+
+a { color: maroon }
+
+a:hover { color: red }
+ 
+footer { text-align: center;
+        color: white;
+    }
